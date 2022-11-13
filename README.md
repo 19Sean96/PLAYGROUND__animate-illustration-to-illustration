@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# SVG Animation - Morphing Illustration-to-Illustration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Steps To Replicate
+
+1. Create/Find at least 2 illustrations (physical or digital). **Make sure BOTM illustrations use the SAME SINGLE color. Important due to it's early stage of development, I've only tested with line art with black ink on white paper.**
+
+2. If using physical art, I'd recommend either scanning the images, or taking the best photo you can. Edit the photo as needed to create as much distinction betwen the background and foreground as possible (adjusting contrast, saturation, etc.). 
+
+3. Find a tool where you can convert JPG/PNG images into SVG files. If you have an Adobe account, [I'd recommend using this converter from Adobe Express.](https://www.adobe.com/express/feature/image/convert/svg)
+
 
 ## Available Scripts
 
